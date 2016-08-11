@@ -16,10 +16,10 @@ It's totally safe. The program not using any injection method or bothering steam
 </table>
 
 <b>Changelog:</b>
-<code>
-1.0<br>
+```
+1.0
  First release
 1.0.1
  Removed VC Redist 2015 dependency (executable's size increased)
  Replaced the 'cp' with 'copy' command in the batch installer
-</code>
+```
