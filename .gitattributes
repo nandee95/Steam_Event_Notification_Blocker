@@ -61,6 +61,7 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-
-$ cat .gitattributes
+##############################################################################
+# Overriding wrong language detection
+##############################################################################
 *.rb linguist-language=C++
