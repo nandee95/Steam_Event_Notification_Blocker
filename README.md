@@ -5,7 +5,7 @@
 This small app blocks <a href="http://steamcommunity.com">Steam</a>'s annoying event notifications.
 <br><br>
 <b>How it works?</b><br>
-It runs in the background all the time (It uses as small amount of resources as possible). When it detect an event notification window its closes it. It scans for windows once a second. The program is automatically starts with Windows!
+It's a background application (It uses as small amount of resources as possible). When It detects an event notification window It closes it. It scans for event notification windows once a second. The program is automatically starts with Windows! Just install it and you will never have to care about it!
 <br><br>
 <b>How to install this tool?</b><br>
 1. Download the latest build from <a href="https://github.com/nandee95/Steam_Event_Notification_Blocker/raw/master/Build/SENB.rar">here</a>.<br>
