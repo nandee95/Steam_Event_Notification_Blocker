@@ -16,7 +16,7 @@ It runs in the background all the time (It uses as small amount of resources as 
 Simply run uninstall.bat
 <br><br>
 <b>Is it safe? Can i get VAC using this tool?</b><br>
-No, you can't. It's totally safe. The program not using any injection method or bothering steam files or processes.
+No, you can't. It's totally safe. The program not using any injection method or bothering Steam files and processes.
 <br><br>
 <b>Attached Batch files:</b>
 <table>
