@@ -1,12 +1,12 @@
-<b>Description:</b>
+<b>Description</b><br>
 This small app blocks steam's annoying event notifications.
-
-<b>How it works?</b>
+<br><br>
+<b>How it works?</b><br>
 It runs in the background all the time (It uses as small amount of resources as possible). When it detect an event notification window its closes it. It scans for windows once a second.
-
+<br><br>
 <b>Is it safe? Can i get VAC using this tool?</b>
 It's totally safe. The program not using any injection method or bothering steam files.
-
+<br><br>
 <b>Attached Batch files:</b>
 <table>
 <thead><tr><td style="font-weight:bold">Batch file</td><td style="font-weight:bold">Description</td></tr></thead>
@@ -14,7 +14,7 @@ It's totally safe. The program not using any injection method or bothering steam
 <tr><td>uninstall.bat</td><td>One click uninstall script</td></tr>
 <tr><td>terminate.bat</td><td>Terminates the senb.exe process</td></tr>
 </table>
-
+<br><br>
 <b>Changelog:</b>
 <code>
 1.0
