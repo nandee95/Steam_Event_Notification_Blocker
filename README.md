@@ -1,6 +1,4 @@
-<b>Donation:</b><br>
 <a href='https://pledgie.com/campaigns/32359'><img alt='Click here to lend your support to: Steam Event Notification Blocker and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32359.png?skin_name=chrome' border='0' ></a><br>
-<br>
 <b>Download:</b><br>
  <a href="https://github.com/nandee95/Steam_Event_Notification_Blocker/raw/master/Build/SENB.rar">Latest build</a><br><br>
 <b>Description</b><br>
@@ -27,6 +25,8 @@ No, you can't. It's totally safe. The program not using any injection method or 
 <tr><td>uninstall.bat</td><td>One click uninstall script</td><td>1. Detects Steam installation<br>2. Terminates senb.exe process<br>3. Removes senb.exe from steam directory<br>4. Remove senb.exe from startup applications</td></tr>
 <tr><td>terminate.bat</td><td>Terminates the senb.exe process</td><td>Terminates the senb.exe process</td></tr>
 </table>
+
+<b>License:</b> MIT
 
 <b>Changelog:</b>
 ```
