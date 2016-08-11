@@ -3,7 +3,6 @@
 #include <atlstr.h>
 #include <psapi.h>
 
-#pragma comment( lib, "psapi.lib" )
 CString steamexe;
 
 bool GetRegKey(HKEY hKey, CString sKey, CString & sKeyValue)

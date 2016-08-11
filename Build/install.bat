@@ -26,7 +26,7 @@ cd %last%
 
 taskkill /f /im senb.exe
 
-cp senb.exe "%steampath%"
+copy senb.exe "%steampath%">nul
 if %errorlevel% == 1 (
 	echo Failed to copy senb.exe to the Steam directory
 	pause>nul
