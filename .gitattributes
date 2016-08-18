@@ -61,7 +61,3 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-##############################################################################
-# Overriding wrong language detection
-##############################################################################
-*.rb linguist-language=C++
