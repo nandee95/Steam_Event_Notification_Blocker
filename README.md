@@ -1,6 +1,11 @@
 <a href='https://pledgie.com/campaigns/32359'><img alt='Click here to lend your support to: Steam Event Notification Blocker and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32359.png?skin_name=chrome' border='0' ></a><br>
 <b>Download:</b><br>
- <a href="https://github.com/nandee95/Steam_Event_Notification_Blocker/raw/master/Build/SENB.rar">Latest build</a><br><br>
+<a href="https://github.com/nandee95/Steam_Event_Notification_Blocker/raw/master/Build/SENB.rar">Latest build</a><br><br>
+<b>Other resources:</b><br>
+<a href="https://virustotal.com/en/url/2256e7d03e96b6e0b73ae6071eb7f40d3537ebba8596743294d4255bf180e146/analysis/1471527104/">Virustotal</a><br>
+<a href="https://www.steamgifts.com/discussion/LomSD/">Steamgifts Discussion</a><br>
+<a href="http://steamcommunity.com/sharedfiles/filedetails/?id=741797149">Steam guide</a><br>
+<br>
 <b>Description</b><br>
 This small app blocks <a href="http://steamcommunity.com">Steam</a>'s annoying event notifications.
 <br><br>
