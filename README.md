@@ -1,4 +1,4 @@
-<b>Warning! This tool is no longer required since Steam implemented the option for us to disable event notifications! This project is discontinued!</b>
+<font color=red><b>Warning! This tool is no longer required since Steam implemented the option for us to disable event notifications! This project is discontinued!</b></font>
 
 
 <b>Download:</b><br>
