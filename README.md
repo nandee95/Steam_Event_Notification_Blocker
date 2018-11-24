@@ -1,4 +1,6 @@
-<a href='https://pledgie.com/campaigns/32359'><img alt='Click here to lend your support to: Steam Event Notification Blocker and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32359.png?skin_name=chrome' border='0' ></a><br>
+<b>Warning! This tool is no longer required since Steam implemented the option for us to disable event notifications! This project is discontinued!</b>
+
+
 <b>Download:</b><br>
 <a href="https://github.com/nandee95/Steam_Event_Notification_Blocker/releases/download/1.0.1/SENB.zip">Latest build</a><br><br>
 <b>Other resources:</b><br>
